@@ -1,0 +1,1 @@
+insert into transaction(id, remark, transaction_date, transaction_type, amount, username) 
